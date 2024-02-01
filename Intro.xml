@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--this line of code is important-->
+<!-- any xml file must have a parent tag because to access the cfontent bof an xml file, it needs to be relatable like head.body -->
+<!-- <note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body> dont forget me this weekend </body > 
+<date>5-10-1999</date> -->
+
+
+<class>
+<firststudent>David</firststudent>
+<secondstudent>Michael</secondstudent>
+<thirdstudent>James</thirdstudent>
+<fourthstudent>Caleb</fourthstudent>
+    
+</class>
